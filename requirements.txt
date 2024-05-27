@@ -1,0 +1,4 @@
+img2vec_pytorch==1.0.1
+ultralytics==8.2.22
+tqdm==2.2.3
+scikit-learn==1.5.0
